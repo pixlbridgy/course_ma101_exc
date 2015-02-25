@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101-EXC: Single-Variable Calculus I"
+course_description: "MA101-EXC is aligned with a challenge exam proctored by Excelsior College, a private, nonprofit institution with a credit-by-exam program that enables students to earn college level credit in select subject areas by passing proficiency examinations. This course differs from MA101, in that it also covers applications of integration, material that is addressed in Unit 2 of Saylor.org’s MA102: Single Variable Calculus II."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Rules for Finding Derivates** <span id="3"></span> 
 *Computing a derivative requires the computation of a limit. Because
 limit computations can be rather involved, we like to minimize the

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA101-EXC: Single-Variable Calculus I"
+course_description: "MA101-EXC is aligned with a challenge exam proctored by Excelsior College, a private, nonprofit institution with a credit-by-exam program that enables students to earn college level credit in select subject areas by passing proficiency examinations. This course differs from MA101, in that it also covers applications of integration, material that is addressed in Unit 2 of Saylor.org’s MA102: Single Variable Calculus II."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Analytic Geometry** <span id="1"></span> 
 *Most of the material in this unit will be review. However, the notions
 of points, lines, circles, distance, and functions will be central in
